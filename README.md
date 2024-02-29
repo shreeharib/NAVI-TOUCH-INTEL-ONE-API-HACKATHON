@@ -2,7 +2,7 @@
 # Assistive Hardware Technology for the Blind
 Assistive hardware technology for the blind individuals has come a long way. With advancements in technology, it has become possible to develop hardware that can help visually impaired individuals navigate safely on roads. In this article, we will discuss a project that was built as part of the oneAPI hackathon. The project involved the use of various hardware components and software tools to develop an assistive technology that can help the blind navigate locally and safely on roads.
 # Team Navi-Touch
-![App Screenshot](https://drive.google.com/file/d/17h-qW2fuLppnre_3LtVEzE-CNefggH1S/view?usp=drive_link)
+![App Screenshot](All_Components (1).gif)
 ![App Screenshot](https://github.com/ISAACRITHARSON/NAVI-TOUCH-Intel-OneAPI-Hackathon/blob/master/All_Components%20(1).gif)
 
 
