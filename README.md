@@ -20,7 +20,6 @@ Assistive hardware technology for the blind individuals has come a long way. Wit
 - Supports Pedestrain/Object Detection
 - Navigation made Easy
 
-<img src="https://github.com/ISAACRITHARSON/NAVI-TOUCH-Intel-OneAPI-Hackathon/blob/master/Poster/Intel%20Equipathon%20Challenge%20Winners.jpeg" width="680">
 
 ## Run Locally
 
